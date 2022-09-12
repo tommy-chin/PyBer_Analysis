@@ -9,4 +9,4 @@ As seen in the rideshare summary dataframe and the multiple line graph created b
 ![PyBer_fare_summary.png](https://github.com/tommy-chin/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
-After conducting this analysis on the 
+After conducting this analysis on the total fares for each city type, a few recommendations could be made. It would seem that for urban city types, there are many more drivers than total rides performed in the January to early May of 2019 period. It may be wise to reallocate the number of drivers deployed in urban areas as many of these drivers are probably idle and not performing any rides. Both the rural and suburban city types have a lower driver count that the total amount of rides performed so these may be areas to consider when relocating urban drivers. Higher profits may be made if more drivers are made more available in rural city types as these areas seem to have the highest average fare per ride. The same could also be said about suburban city types but to a lesser extent. 
